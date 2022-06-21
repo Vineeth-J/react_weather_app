@@ -3,6 +3,6 @@
 $ npm install 
 ```
 ### Get API key
-Get a free api key from IPdata. 
-Get a free api key from WeatherBit. Get it 
+Get api key from IPdata. 
+Get api key from WeatherBit. 
 ```
